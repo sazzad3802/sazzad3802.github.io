@@ -85,8 +85,8 @@ ul li a:hover{
     justify-content: space-between;
     align-items: start;
     position: relative;
-    top: 150px;
-    margin-left: 150px;
+    top: 100px;
+    margin-left: 100px;
 }
 .client_info h1{
     color: #fff;
@@ -100,7 +100,7 @@ ul li a:hover{
 }
 .client_info p{
     color: #fff;
-    width: 500px;
+    width: 1000px;
     line-height: 30px;
     margin: 10px;
     font-size: 20px;
